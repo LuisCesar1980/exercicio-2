@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+.master{
+	margin: 0 auto; /* Vou centralizar a minha div class="master" */
+	width:800px;
+	height:710px;
+	background-color:#FF0000;
+	border:1px;
+	border-style:dashed;
+	border-color:#000000;
+}
+
+#topo{
+	margin-left:9px;
+	margin-top:9px;
+	width:780px;
+	height:150px;
+	background-color:#ff9900;
+	border:1px;
+	border-style:dashed;
+	border-color:#000000;
+}
+
+#imagem-topo{
+	width: 100%;
+	height: 100%;
+}
+
+.menumaster{
+	margin-left:9px;
+	margin-top:9px;
+	width:780px;
+	height:30px;
+	background-color:#ff9900;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:10px;
+}
+
+.menu ul{
+	background-color: greenyellow;
+}
+
+.menu li{
+	list-style-position:inside;
+	display:inline;
+	padding:10px;
+}
+
+#corpo{
+	margin-left:9px;
+	margin-top:10px;
+	width:780px;
+	height: 490px;
+	background-color:#ff9900;
+	border:1px;
+	border-style:dashed;
+	border-color:#000000;
+}
+
+.imagem-corpo{
+	width: 100%;
+	height: 100%;
+}
